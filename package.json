@@ -1,0 +1,27 @@
+{
+  "name": "thonglor-life",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojoee/thonglor-life.git"
+  },
+  "keywords": [
+    "thonglor"
+  ],
+  "author": "Jojoee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jojoee/thonglor-life/issues"
+  },
+  "homepage": "https://github.com/jojoee/thonglor-life#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
