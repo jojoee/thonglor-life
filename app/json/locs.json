@@ -1,0 +1,337 @@
+[
+{
+  "lat": "13.732150",
+  "lng": "100.582891",
+  "name": "Gomeeki's Office",
+  "type": "Office",
+  "cat": ""
+},
+{
+  "lat": "13.732263",
+  "lng": "100.582527",
+  "name": "Romane Sushi",
+  "type": "Restaurant",
+  "cat": "Japan"
+},
+{
+  "lat": "13.732254",
+  "lng": "100.582658",
+  "name": "The Opus",
+  "type": "Mall"
+},
+{
+  "lat": "13.732576",
+  "lng": "100.582179",
+  "name": "Wine Republic",
+  "type": "Bar",
+  "cat": ""
+},
+{
+  "lat": "13.732806",
+  "lng": "100.582177",
+  "name": "Duck noodle",
+  "type": "Street Food",
+  "cat": "Noodle"
+},
+{
+  "lat": "13.732832",
+  "lng": "100.582167",
+  "name": "Drugstore",
+  "type": "Utility",
+  "cat": "Drugstore"
+},
+{
+  "lat": "13.733212",
+  "lng": "100.582244",
+  "name": "Vietnam",
+  "type": "Street Food",
+  "cat": ""
+},
+{
+  "lat": "13.733302",
+  "lng": "100.582263",
+  "name": "Pudao",
+  "type": "Spa",
+  "cat": ""
+},
+{
+  "lat": "13.733353",
+  "lng": "100.582277",
+  "name": "Absolute",
+  "type": "Spa",
+  "cat": ""
+},
+{
+  "lat": "13.733520",
+  "lng": "100.582306",
+  "name": "Onsen",
+  "type": "Spa",
+  "cat": ""
+},
+{
+  "lat": "13.733573",
+  "lng": "100.582446",
+  "name": "Cantus",
+  "type": "Utility",
+  "cat": "Copy and Photo"
+},
+{
+  "lat": "13.733616",
+  "lng": "100.582477",
+  "name": "Nobu",
+  "type": "Restaurant",
+  "cat": ""
+},
+{
+  "lat": "13.733212",
+  "lng": "100.582969",
+  "name": "Wie Lmmer",
+  "type": "Restaurant",
+  "cat": ""
+},
+{
+  "lat": "13.733271",
+  "lng": "100.583159",
+  "name": "Beef Noodle",
+  "type": "Street Food",
+  "cat": "Noodle"
+},
+{
+  "lat": "13.733812",
+  "lng": "100.582495",
+  "name": "Nakiya",
+  "type": "Restaurant",
+  "cat": "Japan"
+},
+{
+  "lat": "13.734143",
+  "lng": "100.582529",
+  "name": "Banjongkiet",
+  "type": "Street Food",
+  "cat": ""
+},
+{
+  "lat": "13.734209",
+  "lng": "100.582634",
+  "name": "Doctor Tony",
+  "type": "Utility",
+  "cat": "Beauty Clinic"
+},
+{
+  "lat": "13.734432",
+  "lng": "100.582750",
+  "name": "Pennys",
+  "type": "Mall",
+  "cat": ""
+},
+{
+  "lat": "13.734422",
+  "lng": "100.582760",
+  "name": "Omelet",
+  "type": "Street Food",
+  "cat": ""
+},
+{
+  "lat": "13.735731",
+  "lng": "100.583171",
+  "name": "Arlee",
+  "type": "Street Food",
+  "cat": "Noodle"
+},
+{
+  "lat": "13.735955",
+  "lng": "100.583176",
+  "name": "Chicken Noodle",
+  "type": "Street Food",
+  "cat": "Noodle"
+},
+{
+  "lat": "13.735958",
+  "lng": "100.583253",
+  "name": "Son",
+  "type": "",
+  "cat": ""
+},
+{
+  "lat": "13.736339",
+  "lng": "100.583202",
+  "name": "Park Tonglor",
+  "type": "Mall",
+  "cat": ""
+},
+{
+  "lat": "13.735912",
+  "lng": "100.583073",
+  "name": "Noodle",
+  "type": "Street Food",
+  "cat": "Noodle"
+},
+{
+  "lat": "13.735829",
+  "lng": "100.583103",
+  "name": "Mrs.Som",
+  "type": "Street Food",
+  "cat": ""
+},
+{
+  "lat": "13.735761",
+  "lng": "100.583088",
+  "name": "Beef Noodle",
+  "type": "Street Food",
+  "cat": "Noodle"
+},
+{
+  "lat": "13.735615",
+  "lng": "100.582995",
+  "name": "Papaya Salad",
+  "type": "Street Food",
+  "cat": "Papaya Salad"
+},
+{
+  "lat": "13.735530",
+  "lng": "100.582764",
+  "name": "N.Aum",
+  "type": "Drink",
+  "cat": "Coffee"
+},
+{
+  "lat": "13.735432",
+  "lng": "100.583045",
+  "name": "7-11",
+  "type": "Utility",
+  "cat": "Convenience Store"
+},
+{
+  "lat": "13.735316",
+  "lng": "100.582935",
+  "name": "CP Fresh",
+  "type": "Utility",
+  "cat": "Convenience Store"
+},
+{
+  "lat": "13.735259",
+  "lng": "100.582920",
+  "name": "VJ Pharmacy",
+  "type": "Utility",
+  "cat": "Drugstore"
+},
+{
+  "lat": "13.735238",
+  "lng": "100.582936",
+  "name": "Spaghetti",
+  "type": "Restaurant",
+  "cat": "Japan"
+},
+{
+  "lat": "13.735172",
+  "lng": "100.582927",
+  "name": "Bonsai",
+  "type": "Restaurant",
+  "cat": "Japan"
+},
+{
+  "lat": "13.735067",
+  "lng": "100.582850",
+  "name": "Noodle",
+  "type": "Street Food",
+  "cat": "Noodle"
+},
+{
+  "lat": "13.735064",
+  "lng": "100.582809",
+  "name": "Family Mart",
+  "type": "Utility",
+  "cat": "Convenience Store"
+},
+{
+  "lat": "13.734962",
+  "lng": "100.582807",
+  "name": "Grilled Pork",
+  "type": "Street Food",
+  "cat": "Grilled Pork"
+},
+{
+  "lat": "13.734842",
+  "lng": "100.582583",
+  "name": "United Tower",
+  "type": "Mall",
+  "cat": ""
+},
+{
+  "lat": "13.734739",
+  "lng": "100.582544",
+  "name": "Bad Motel",
+  "type": "Bar",
+  "cat": ""
+},
+{
+  "lat": "13.734505",
+  "lng": "100.582735",
+  "name": "Chandon ",
+  "type": "Restaurant",
+  "cat": "Italian"
+},
+{
+  "lat": "13.734264",
+  "lng": "100.582646",
+  "name": "Villa Market",
+  "type": "Mall",
+  "cat": ""
+},
+{
+  "lat": "13.733703",
+  "lng": "100.582503",
+  "name": "Oneone All",
+  "type": "Restaurant",
+  "cat": ""
+},
+{
+  "lat": "13.733619",
+  "lng": "100.582312",
+  "name": "Meat Ball",
+  "type": "Street Food",
+  "cat": "Meat Ball"
+},
+{
+  "lat": "13.733449",
+  "lng": "100.582221",
+  "name": "Homeplace Plaza",
+  "type": "Mall",
+  "cat": ""
+},
+{
+  "lat": "13.732962",
+  "lng": "100.582171",
+  "name": "Thai A La Carte",
+  "type": "Street Food",
+  "cat": "Thai A La Carte"
+},
+{
+  "lat": "13.732586",
+  "lng": "100.582080",
+  "name": "Starbuck",
+  "type": "Drink",
+  "cat": "Coffee"
+},
+{
+  "lat": "13.732333",
+  "lng": "100.581914",
+  "name": "Beef",
+  "type": "Restaurant",
+  "cat": ""
+},
+{
+  "lat": "13.732313",
+  "lng": "100.581959",
+  "name": "Cooked to order",
+  "type": "Restaurant",
+  "cat": "Cooked to order"
+},
+{
+  "lat": "13.731885",
+  "lng": "100.582040",
+  "name": "Parking",
+  "type": "Parking",
+  "cat": ""
+}
+]

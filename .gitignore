@@ -1,2 +1,7 @@
-node_modules/
-bk/
+node_modules
+components
+
+bk
+README2.md
+
+*.psd

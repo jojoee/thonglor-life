@@ -1,30 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:ng="http://angularjs.org/" ng-app="thonglorLife">
 <head>
 <meta charset="utf-8" />
+<title>Thonglor Life</title>
 <link rel="stylesheet" href="css/style.css">
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.js"></script><!-- unused -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular-google-maps/2.0.23/angular-google-maps.min.js"></script>
+<script src="app.js"></script>
 </head>
 <body>
-
-<div class="wrapper">
-  <h1 class="title">Gulp Starter</h1>
-  <p>
-    Simple gulp to make frontend life easier<br />
-    (gulp for static site builder)
-  </p>
+<div id="map_canvas" ng-controller="mainCtrl">
+  <ui-gmap-google-map
+    center="map.center"
+    zoom="map.zoom"
+    draggable="true"
+    options="options"
+    bounds="map.bounds">
+    <ui-gmap-markers
+      models="thonglorMarkers"
+      coords="'self'"
+      icon="'icon'"
+      click="onClick">
+      <ui-gmap-windows show="show">
+        <div ng-non-bindable>
+          {{windowHtml}}
+        </div>
+      </ui-gmap-windows>
+    </ui-gmap-markers>
+  </ui-gmap-google-map>
+  </div>
 </div>
-
-<div class="test-box">
-  <div class="js" id="js"></div>
-  <div class="less" id="less"></div>
-  <div class="sass" id="sass"></div>
-  <div class="compass" id="compass"></div>
-</div>
-
-<div class="script">
-<script type="text/javascript" src="js/script.js"></script>
-</div>
-<script>
-</script>
 </body>
 </html>
