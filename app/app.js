@@ -28,6 +28,11 @@ var appLocs = [];
  */
 
 angular.module(appName, ['uiGmapgoogle-maps'])
+.config(function(uiGmapGoogleMapApiProvider) {
+  uiGmapGoogleMapApiProvider.configure({
+    key: 'AIzaSyCPPm6pXH5sy2yvwtg4jkM-RTUiWNqQj3I'
+  });
+})
 .controller('mainCtrl', ['$scope', '$http', '$log', function($scope, $http, $log) {
   $scope.map = {
     center: {
