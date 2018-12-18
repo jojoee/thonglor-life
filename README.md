@@ -1,5 +1,7 @@
 # Thonglor Life
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jojoee/thonglor-life.svg)](https://greenkeeper.io/)
+
 For anyone who live on thonglor, map that have many markers for helping you to find the place you want (especially food :))
 
 ## Todo
